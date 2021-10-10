@@ -1,0 +1,7 @@
+public class Welcome {
+	public static void main (String args[]) {
+	    int a = 25; int b = 65; int c = 30;
+	    int result = (a > b) ? ((c > a) ? c : a) : ((b > c) ? b : c);
+	    System.out.println(result); 
+	}
+}
