@@ -53,7 +53,7 @@ a {
 #pizza {
     margin-top: 20px;
 }
-#DP {
+#DB {
   background: linear-gradient(45deg,darkred,black);
   color: white;
   width: 500px;
@@ -62,7 +62,15 @@ a {
   margin:20px auto
   
 }
-#TB {
+#TG {
+    background: linear-gradient(45deg,darkred,black);
+  color: white;
+  width: 500px;
+  padding: 15px;
+  border-radius: 50%;
+  margin:20px auto
+}
+#TP {
     background: linear-gradient(45deg,darkred,black);
   color: white;
   width: 500px;
